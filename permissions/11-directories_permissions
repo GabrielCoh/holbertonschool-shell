@@ -1,2 +1,2 @@
 #!/bin/bash
-fin /root/homeschool-shell/permissions -type d -exec chmod a+x
+find /root/holbertonschool-shell/permissions -type d -exec chmod a+x
