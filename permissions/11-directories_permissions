@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod --reference=permissions *dir 
+chmod -R a+x permission
