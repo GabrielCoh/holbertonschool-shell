@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod --recursive u+X g+X o+X /root/holbertonschool-shell/permissions
+sudo find permissions -type d -exec chmod a+x
