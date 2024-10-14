@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod --recursive a+X /root/holbertonschool-shell/permissions
+chmod --recursive u+X g+X o+X /root/holbertonschool-shell/permissions
