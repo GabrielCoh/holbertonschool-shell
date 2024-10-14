@@ -1,2 +1,2 @@
 #!/bin/bash
-tr 'c' 'e' <<< "$string" | tr 'A' 'Z' <<< "$string"
+echo Aca | tr Ac Ze
