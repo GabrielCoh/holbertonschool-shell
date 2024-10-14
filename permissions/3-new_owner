@@ -1,2 +1,2 @@
 #!/bin/bash
-su chown /tmp/betty /hello
+su -i chown betty /hello
