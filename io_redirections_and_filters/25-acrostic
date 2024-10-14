@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -c 1  -printf "%f\n" >> ls
+cat acrostic_1 | cut -c1 | cut -f1 
