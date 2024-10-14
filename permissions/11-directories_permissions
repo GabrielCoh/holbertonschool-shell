@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo find permissions -type d -exec chmod a+x
+fin /root/homeschool-shell/permissions -type d -exec chmod a+x
