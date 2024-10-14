@@ -1,2 +1,2 @@
 #!/bin/bash
-find ./ -type f -empty -iname ".*" -ls | find ./ -type d -empty -iname ".*" -ls
+find ./ -empty | ls -la
