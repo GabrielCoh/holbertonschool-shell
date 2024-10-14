@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type d -mindepth 1 -printf '1' | wc -l
+find io_redirections_and_filters -type d -mindepth 1 -printf '1' | wc -l
