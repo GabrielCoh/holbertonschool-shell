@@ -1,2 +1,2 @@
 #!/bin/bash
-export PATH=/bin:/home:/usr:/home/me echo $PaTH | tr : $'' | grep / | wc -l
+echo $PaTH | tr ':' ' ' | tr '/' ' ' |  wc -l
